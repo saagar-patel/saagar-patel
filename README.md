@@ -1,8 +1,8 @@
 # Saagar Patel
-- :wave: Hey, I’m Saagar. I'm a aspiring developer attending unversity studying Computer Science and Statistics.
-- :computer: I’m interested in learning more about Machine Learning, Artificial Intelligence, Data Analytics, Game Design and a lot more.
+- :wave: Hey, I’m Saagar. I'm a aspiring developer attending the University of Illinois at Urbana-Champaign studying Computer Science and Statistics.
+- :computer: I’m interested in learning more about Machine Learning, Artificial Intelligence, Data Analytics, Game Design and more.
 - :books: I’m looking to collaborate on any open source project and gain additional technical experience.
-- :star: I also enjoy reading, eating food, video games, learning about outer space, traveling, and learning new things.
+- :star: I also enjoy reading, eating food, video games, astronomy, traveling, and learning new things.
 - :heavy_check_mark: My goal is to always be curious and to always act upon that curiosity.
 
 
