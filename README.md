@@ -1,16 +1,13 @@
 # Saagar Patel
-- :wave: Hey, I’m Saagar. I'm a aspiring developer attending the University of Illinois at Urbana-Champaign studying Computer Science and Statistics.
-- :computer: I’m interested in learning more about Machine Learning, Artificial Intelligence, Data Analytics, Game Design and more.
-- :books: I’m looking to collaborate on any open source project and gain additional technical experience.
-- :star: I also enjoy reading, eating food, video games, astronomy, traveling, and learning new things.
-- :heavy_check_mark: My goal is to always be curious and to always act upon that curiosity.
-
-
+- Hey, I’m Saagar. I'm a developer who's driven to create intelligent products that drive change.
+- My favorite topics are Natural Language Processing, Search Optimization, Astrophysics, Game Design and more.
+- I’m looking to collaborate on any open source project and gain additional technical experience.
+- I also enjoy reading, eating sushi, playing roundnet, astronomy, traveling, history, geography, and learning about literally anything.
+- My goal is to constantly push the boundaries of my comfort zone and in doing so gain a deep understanding of the world around me and the people that live in it.
 
 ### Contact Me!
 - :bird: Twitter: @saagarpatel_
 - :email: Email: saagarpatel2601@gmail.com
-
 
 ### Other Github Account:
 My other github account is SGR26.
